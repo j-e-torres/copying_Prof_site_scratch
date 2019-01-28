@@ -1,0 +1,33 @@
+body {
+    font-family: 'Franklin Gothic Medium';
+}
+
+#home-Header a {
+    background-color: rgb(29, 31, 30);
+    color: rgb(147, 180, 160);
+    font-size: 40px;
+    text-decoration: underline;
+    /* padding: 5px; */
+    /* margin: auto; */
+}
+
+#user-link a {
+    background-color: rgb(29, 31, 30);
+    color: rgb(147, 180, 160);
+    padding: 15px;
+    font-size: 25px;
+    /* display: flex; */
+    /* margin: auto; */
+}
+
+#user-selected {
+    border: 1px black solid;
+    font-size: 250%;
+    /* display:flex; */
+    /* justify-content: center; */
+    text-align: center;
+    height: 200px;
+    background-color: rgb(29, 31, 30);
+    color: rgb(147, 180, 160);
+
+}
